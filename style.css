@@ -1,0 +1,32 @@
+html {
+ background:#ffa8B6;
+ color: black;
+ font-size: 2rem;
+font-family: cursive;
+}
+ 
+
+img {
+    height: 250px;
+    width: 250px;
+    text-transform:uppercase;
+    border:5px solid white;
+}
+h1 {
+    text-align:center;
+    background-color:white;
+    color:black;
+    text-transform: uppercase;
+}
+h2{
+    background-color: white;
+    color:black;
+    text-align: center;
+    text-transform: uppercase;
+}
+h3 {
+    background-color: aliceblue;
+    color:black;
+    text-transform: uppercase;
+}
+    
